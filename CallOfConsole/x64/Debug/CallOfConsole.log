@@ -1,0 +1,3 @@
+﻿  CallOfConsole.cpp
+C:\Users\Niklas Gschaider\Desktop\CallOfConsole\CallOfConsole\CallOfConsole.cpp(196,16): warning C4244: "Initialisierung": Konvertierung von "double" in "int", möglicher Datenverlust
+  CallOfConsole.vcxproj -> C:\Users\Niklas Gschaider\Desktop\CallOfConsole\x64\Debug\CallOfConsole.exe
